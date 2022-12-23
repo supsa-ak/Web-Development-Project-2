@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html, body{
+    background-color: yellow;
+    width: 50%;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input[type=text],
+input[types=text]:focus{
+    color: black;
+    background-color: #eee660;
+    border-radius: 4px;
+    height: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    margin-bottom: 20px;
+}
+
+h1, h3{
+    margin: 20px 0;
+}
+
+button{
+    background-color: greenyellow;
+    height: 33px;
+    width: 40px;
+    border-radius: 4px;
+    border: 2px solid black;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 20px;
+    padding: 10px 0;
+}
